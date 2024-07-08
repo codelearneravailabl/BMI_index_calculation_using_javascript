@@ -1,0 +1,38 @@
+.container{
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid rgb(155, 231, 145);
+
+}
+.weight{
+    margin: 10px;
+    padding: 10px;
+}
+.height{
+    margin: 10px;
+    padding: 10px;
+}
+.button{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+.calculate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#results{
+   
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: rgb(21, 255, 0);
+    text-align: center;
+    width:50%
+}
